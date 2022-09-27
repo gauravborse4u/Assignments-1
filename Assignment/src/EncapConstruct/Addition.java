@@ -16,7 +16,7 @@ public class Addition {
     	 Addition obj5=new Addition(3.3f,5.9f);
     	 obj1.display();
     	 obj2.display();
-    	 obj3.display1();
+    	 obj3.display();
     	 obj4.display1();
     	 obj5.display1();
      }
