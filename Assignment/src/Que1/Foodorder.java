@@ -7,4 +7,5 @@ public class Foodorder {
 		System.out.println(b.bill());
 		System.out.println(m.bill());
 		}
+	
 	}

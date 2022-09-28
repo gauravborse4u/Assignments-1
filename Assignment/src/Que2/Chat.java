@@ -12,6 +12,7 @@ public class Chat {
 		Person p1=new Person();
 		Person p2=new Person();
 		p1.message("Hi");
+	
 		p2.message("Hi");	
 	}
 }

@@ -8,4 +8,5 @@ public class Manchuria extends Foodbill{
 		return 80;
 	}
 	
+	
 }

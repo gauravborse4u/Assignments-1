@@ -8,4 +8,5 @@ public class Biryani extends Foodbill{
 		return 240;
 	}
 	
+	
 }
